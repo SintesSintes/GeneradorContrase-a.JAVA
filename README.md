@@ -1,1 +1,1 @@
-# GeneradorContrase-a.JAVA
+# GeneradorContrasena.JAVA
